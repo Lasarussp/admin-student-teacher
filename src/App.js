@@ -10,8 +10,8 @@ import Mentor from "./Components/Mentor/Mentor";
 import AddMentor from "./Components/Mentor/AddMentor";
 import { EditMentor } from "./Components/Mentor/EditMentor";
 
-// student API --> https://645cfad8e01ac610589920af.mockapi.io/student
-// mentor API --> https://645cfad8e01ac610589920af.mockapi.io/mentor
+// Student API --> https://645cfad8e01ac610589920af.mockapi.io/student
+// Mentor API --> https://645cfad8e01ac610589920af.mockapi.io/mentor
 
 function App() {
   return (
